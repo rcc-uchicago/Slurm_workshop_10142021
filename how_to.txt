@@ -1,2 +1,0 @@
-# Under the same directory
-sh interactive_jobs.sh
